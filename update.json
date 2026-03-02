@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "Fix permission loop: detect stale TCC entry and clear it on update",
-  "pub_date": "2026-03-02T20:04:54Z",
+  "version": "0.1.9",
+  "notes": "Fix: releases link now opens the correct public page",
+  "pub_date": "2026-03-02T20:07:15Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "untrusted comment: signature from minisign secret key\nRURMN3TUfu52UkmhQ4iboPnzbOwuMbYw+0lM3SqhehpMta4T4Y7/lvwUoHCVp0t7+FzuTnVVwU3E4KZDsjPCVeKkYVuawhPW3Qo=\ntrusted comment: timestamp:1772481868\tfile:SS-Hotter.app.tar.gz\thashed\nNP0IlABB0DWBQNkxbXPG3tfPEtK4Q2DReUIbC64A5aD7pe8+QEikMXL0iS79i3HpKYcphgbOviXKVnLDaUcmCA==",
-      "url": "https://github.com/kusmiderjakub/sshooter-releases/releases/download/v0.1.8/SS-Hotter.app.tar.gz"
+      "signature": "untrusted comment: signature from minisign secret key\nRURMN3TUfu52UtJjwaDoQ5d/VGRs90UE6zycFIKpMw0iEZeOuAHJBeSTjrzbXD4VhqjxeFeIFQ/IZjd7+1sBF2IKe/EEzBFzwwg=\ntrusted comment: timestamp:1772482018\tfile:SS-Hotter.app.tar.gz\thashed\nrTB7FGbfgHlJKLuCZY0tqczS4MaHh2Q7HqjfBrAKuP6pVDtvnhGdZD2z08XtNjgvg5koZsrOFegZphSMoAtFCw==",
+      "url": "https://github.com/kusmiderjakub/sshooter-releases/releases/download/v0.1.9/SS-Hotter.app.tar.gz"
     }
   }
 }
