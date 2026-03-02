@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "Storage, History, Swipe, Drag, Polished Editor",
-  "pub_date": "2026-03-02T19:53:47Z",
+  "version": "0.1.7",
+  "notes": "Fix: no more permission dialog on every update",
+  "pub_date": "2026-03-02T19:59:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "untrusted comment: signature from minisign secret key\nRURMN3TUfu52UiQALXXf0L2Z6KpDB6Z9kNAFshsJ/p/dgda3LFQbyhe8MvqafkOdUONMpWdniCSGViaUb2lYf8CFcOeLVWZFawc=\ntrusted comment: timestamp:1772481208\tfile:SS-Hotter.app.tar.gz\thashed\n0i9BqJh346J3hf48atdeQDielOCPAakGuum5gO/IWyzdVU/rfKA9mm4b9oDPeCO4myLMUpEWqApm9TyT4J1rAw==",
-      "url": "https://github.com/kusmiderjakub/sshooter-releases/releases/download/v0.1.6/SS-Hotter.app.tar.gz"
+      "signature": "untrusted comment: signature from minisign secret key\nRURMN3TUfu52UsCa22ErHPtY/Y/oco2kXo/O4h4C6SId2a85Q4VwB0ROL1+DLzC/WTl7Q2iY/3A2dSw6OpPFi2zocHsz+YBnJAA=\ntrusted comment: timestamp:1772481539\tfile:SS-Hotter.app.tar.gz\thashed\nnuRUOegzq8d5Kp0+5vGaxAAbIzUY/vCNVpCITosFsa/v4t4S+IXLg1rxfrfMJday4doWIaq7niBkXhoeV7iqCQ==",
+      "url": "https://github.com/kusmiderjakub/sshooter-releases/releases/download/v0.1.7/SS-Hotter.app.tar.gz"
     }
   }
 }
