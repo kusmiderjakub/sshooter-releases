@@ -1,0 +1,11 @@
+{
+  "version": "0.1.5",
+  "notes": "Auto-reset screen recording permission on every update so permission dialog always re-appears after installing a new version",
+  "pub_date": "2026-03-02T19:12:03Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "untrusted comment: signature from minisign secret key\nRURMN3TUfu52UmMUafKu32AfBXTqy3CKjJ6rp+GvyWFN39Uc3B2FEVAC9hNpM3TOcMDed7WIwv5lewBvzAvg655/o79xRUAqlAs=\ntrusted comment: timestamp:1772478723\tfile:SS-Hotter.app.tar.gz\thashed\n8IeKS6XEidjTyYSE8Ft2cUc+qKg1XgFrCGuR1zeLTfi1tkBa+PcEwwbfjEpyDDAzPTbp9buiqNnLphmoScYhBQ==",
+      "url": "https://github.com/kusmiderjakub/sshooter/releases/download/v0.1.5/SS-Hotter.app.tar.gz"
+    }
+  }
+}
