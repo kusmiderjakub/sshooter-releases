@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "Fix X button size, swipe-to-dismiss, copy auto-dismiss, traffic lights overlap, text tool, drag-drop thumbnails to editor, Done button, Save as, paste to editor",
-  "pub_date": "2026-03-02T20:27:42Z",
+  "version": "0.2.1",
+  "notes": "HiDPI text rendering, Parakeet voice transcription, select/move tool, freeze fix, YouTrack integration, swipe fixes",
+  "pub_date": "2026-03-03T09:06:45Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "untrusted comment: signature from minisign secret key\nRURMN3TUfu52UtpB0t16ZRkycoOmMcjboWAyKXjojAWgjwrJx2Jv/CVntCZ+alWLH1h5Vaz9VZh6ItMNgzyVHKx+m2wKu9JX0wc=\ntrusted comment: timestamp:1772483262\tfile:SS-Hotter.app.tar.gz\thashed\nI80naBGD5e0EKisaLPAQ9b/eUVzHnePluKi3VWWcrmUMBOlVl3YR+mRRgb10gO1c5NQ7Ykp7aCQ8I24gEY6VCw==",
-      "url": "https://github.com/kusmiderjakub/sshooter-releases/releases/download/v0.1.10/SS-Hotter.app.tar.gz"
+      "signature": "untrusted comment: signature from minisign secret key\nRURMN3TUfu52UkjucefdC5/pUlWpmhmX+fgEpDa31WvemWg5sQZVJ2QiR9CBkoZFfPGQf7z5md0J+mUG+FHeV8F/DF3Glt9ijAQ=\ntrusted comment: timestamp:1772528805\tfile:SS-Hotter.app.tar.gz\thashed\nydVrxoubzASoJpWxRlQzX0j6e51BmN3YjKGAWD2txnznR9K1jFW9UKPLgq2amY0wHvutlYffiD4ml8v6+LYWCw==",
+      "url": "https://github.com/kusmiderjakub/sshooter-releases/releases/download/v0.2.1/SS-Hotter.app.tar.gz"
     }
   }
 }
