@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "HiDPI text rendering, Parakeet voice transcription, select/move tool, freeze fix, YouTrack integration, swipe fixes",
-  "pub_date": "2026-03-03T09:06:45Z",
+  "version": "0.2.2",
+  "notes": "Multi-image grid: dragged images now auto-grid side-by-side; Gemini prompt template in settings; editor toolbar cleanup; swipe + OCR + freeze fixes",
+  "pub_date": "2026-03-03T09:33:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "untrusted comment: signature from minisign secret key\nRURMN3TUfu52UkjucefdC5/pUlWpmhmX+fgEpDa31WvemWg5sQZVJ2QiR9CBkoZFfPGQf7z5md0J+mUG+FHeV8F/DF3Glt9ijAQ=\ntrusted comment: timestamp:1772528805\tfile:SS-Hotter.app.tar.gz\thashed\nydVrxoubzASoJpWxRlQzX0j6e51BmN3YjKGAWD2txnznR9K1jFW9UKPLgq2amY0wHvutlYffiD4ml8v6+LYWCw==",
-      "url": "https://github.com/kusmiderjakub/sshooter-releases/releases/download/v0.2.1/SS-Hotter.app.tar.gz"
+      "signature": "untrusted comment: signature from minisign secret key\nRURMN3TUfu52UtXJIEbj7RdTUQ6N/xfv8l36GdB5YyogLTm+4uCacYI6d92ZUaPcd2yr5IJbAG356XybHK0t9GifoYD41U5o8QQ=\ntrusted comment: timestamp:1772530392\tfile:SS-Hotter.app.tar.gz\thashed\ndzkqZcqy0pWf5HLjZeg+wtTh9b+xStN0GrqwDYg9rBr19Cm3rW89pxru3c04M0524qN9bitRK8aTWDUGCUZ8Cw==",
+      "url": "https://github.com/kusmiderjakub/sshooter-releases/releases/download/v0.2.2/SS-Hotter.app.tar.gz"
     }
   }
 }
